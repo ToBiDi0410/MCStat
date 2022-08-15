@@ -1,0 +1,5 @@
+name: MCStat
+version: 0.1
+api-version: 1.13
+author: Tobias Dickes
+main: de.tobias.mcstat.main
